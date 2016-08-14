@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Use div_for helper
+gem 'record_tag_helper'
 #Annotate models
 gem 'annotate'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
